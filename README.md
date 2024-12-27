@@ -12,8 +12,8 @@ I was born and raised in the "Music City", Nashville, TN USA and now reside in t
 
 - 🔭 I’m currently working on dashboards, cloud computing, advocating for data privacy, AI, and raising two incredible kids. 
 - 🌱 I’m currently learning TensorFlow, PyTorch, Apache Spark, and Scala.
-- 💬 Ask me about investing, Marvel, protecting your online privacy by switching to [Proton](https://go.getproton.me/SHfq). 
-- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/mrnichols/) or [Instagram](https://www.instagram.com/nichols.tech/).
+- 💬 Ask me about protecting your online privacy by switching to [Proton](https://go.getproton.me/SH123). 
+- 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/joshuasamuelnichols/) or [Instagram](https://www.instagram.com/nichols.tech/).
 - ✔ Check my blogs on [Medium](https://medium.com/@nichols.tech) or browse my [affiliate links](https://linktr.ee/mrnichols).
 
 <h3 align="left">Languages and Tools:</h3>
