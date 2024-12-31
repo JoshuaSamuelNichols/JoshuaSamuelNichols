@@ -5,7 +5,7 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZvNjF6eDhqaXJhc3plZzAxOHV4bmxmOGw3bTM4N3l0dWFtdDR2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" alt="GIF">
 </p>
 
-I'm from Nashville, Tennessee and currently based in Geneva, Switzerland. I'm passionate about data analytics, technology and social development. I hold a **Bachelor of Business Administration** from ([IAE Lille](https://iaelille.fr/en/home/)) in Lille, France and I'm currently finalizing an **MBA in Data Science** at the **Swiss School of Business and Management** ([SSBM](https://www.ssbm.ch/)) in **Geneva**. 
+I'm from Nashville, Tennessee and currently based in Geneva, Switzerland. I'm passionate about data analytics, technology and social development. I hold a **Bachelor of Business Administration** from ([IAE Lille](https://iaelille.fr/en/home/)) and I'm currently finalizing an **MBA in Data Science** at the **Swiss School of Business and Management** ([SSBM](https://www.ssbm.ch/)). 
 
 As a data analyst, I use **Python**, **Excel**, **Power BI**, **Jupyter Notebook**, **SQL** and **Azure** to achieve organizational goals and bring positive change to the world.
 
