@@ -1,4 +1,4 @@
-<p align="center"> ✌🏽 I'm Joshua (Yehoshi). Welcome to my GitHub. Let's talk tech! 🌐📊📈 
+<p align="center"> ✌🏽 I'm Joshua (Yehoshua). Welcome to my GitHub. Let's talk tech! 🌐📊📈 
 </p>
 
 <p align="center"> 
@@ -12,7 +12,7 @@ As a data analyst, I use **Python**, **Excel**, **Power BI**, **Jupyter Notebook
 - 📊 I’m currently working on dashboards, advocating for data privacy and raising two incredible kids. 
 - 🔐 Ask me about protecting your online privacy with [Proton](https://go.getproton.me/SH123). 
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/joshuasamuelnichols/) or [Instagram](https://www.instagram.com/nichols.tech/).
-- 📚 Read my data privacy blogs on [Medium](https://medium.com/@nichols.tech).
+- 📚 Read my data privacy blogs on [Medium](https://medium.com/@joshuasamuelnichols).
 
 
 
