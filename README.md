@@ -10,7 +10,6 @@ I'm from Nashville, Tennessee and currently based in Geneva, Switzerland. I’m 
 As a data analyst, I use **Python**, **Excel**, **Power BI**, **Jupyter Notebook**, **SQL** and **Azure** to achieve organizational goals and bring positive change to the world. Feel free to check out my projects here on my [portfolio website](https://joshuasamuelnichols.github.io).
 
 - 📊 I’m currently working on dashboards, advocating for data privacy and raising two incredible kids. 
-- 🔐 Ask me about protecting your online privacy with [Proton](https://go.getproton.me/SH123). 
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/joshuasamuelnichols/) or [Instagram](https://www.instagram.com/nichols.tech/).
 - 📚 Read my data privacy blogs on [Medium](https://medium.com/@joshuasamuelnichols).
 
