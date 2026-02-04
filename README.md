@@ -1,4 +1,4 @@
-<p align="center"> ✌🏽 I'm Joshua (Yehoshua). Welcome to my GitHub. Let's talk tech! 🌐📊📈 
+<p align="center"> ✌🏽 I'm Joshua Samuel (pronounced Yoshua). Welcome to my GitHub. Let's talk tech! 🌐📊📈 
 </p>
 
 <p align="center"> 
