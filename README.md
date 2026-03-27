@@ -1,4 +1,4 @@
-<p align="center"> ✌🏽 I'm Joshua Samuel (pronounced Yoshua). Welcome to my GitHub. Let's talk tech! 🌐📊📈 
+<p align="center"> ✌🏽 I'm Joshua Samuel Nichols. Welcome to my GitHub. Let's talk business! 🌐📊📈 
 </p>
 
 <p align="center"> 
@@ -6,7 +6,7 @@
 </p>
 
 I'm from Nashville, Tennessee. I’m passionate about data analytics, sustainability and social development through technology. I hold a **Bachelor of Business Administration** from [IAE Lille](https://iaelille.fr/en/home/) and an **MBA in Data Science** from **Swiss School of Business and Management** [SSBM](https://www.ssbm.ch/). 
-Through my music and business background, I founded [Nashville Music School](https://nashvillemusicschool.online) in Rhône-Alps, France with the mission: *Bringing Music City to the World*.
+Through my music and business background, I founded [Nashville Music School](https://nashvillemusicschool.online) in Rhône-Alpes, France with the mission: *Bringing Music City to the World*.
 
 As a data and business analyst, I use **Python**, **Excel**, **Power BI**, **Jupyter Notebook**, **SQL** and **Azure** to achieve organizational goals and bring positive change to the world. Feel free to check out my projects here on my [portfolio website](https://joshuasamuelnichols.github.io).
 
